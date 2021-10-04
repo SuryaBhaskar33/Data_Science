@@ -1,4 +1,4 @@
-,Murder,Assault,UrbanPop,Rape,KMeans_4,KMeans_3,Hierar_clusert_K(4),DBSCAN_E(0.8)_MS(3)
+,Murder,Assault,UrbanPop,Rape,KMeans_4,KMeans_3,Hierar_cluster_K(4),DBSCAN
 0,13.2,236,58,21.2,1,1,0,-1
 1,10.0,263,48,44.5,2,1,0,-1
 2,8.1,294,80,31.0,2,1,3,-1
